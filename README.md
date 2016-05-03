@@ -1,6 +1,8 @@
 # masswol.sh
 Simple shell script to boot, check and shutdown many remote computers.
 
+**Project has moved to https://framagit.org/Yvan-Masson/masswol**
+
 A typical use case: as a sysadmin I want to boot many computers using
 Wake on LAN. After waiting two minutes, I want to check that they are
 all running. I then do my sysadmin stuff. Finally, I want them to
